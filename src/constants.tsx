@@ -111,13 +111,6 @@ export const CATEGORIES: Category[] = [
         tags: ['AI', 'Visual', 'Machine Learning']
       },
       {
-        title: 'Anthropic Academy',
-        url: 'https://anthropic.skilljar.com/',
-        description: 'Official courses on AI safety, alignment, and model usage.',
-        icon: <FlaskConical />,
-        tags: ['AI', 'Ethics', 'Official']
-      },
-      {
         title: 'Laws of UX',
         url: 'https://lawsofux.com/',
         description: 'A collection of best practices that designers can consider when building user interfaces.',
@@ -152,6 +145,13 @@ export const CATEGORIES: Category[] = [
         description: 'Industry-standard cloud and database certifications.',
         icon: <GraduationCap />,
         tags: ['Cloud', 'Database', 'Official']
+      },
+      {
+        title: 'Anthropic Academy',
+        url: 'https://anthropic.skilljar.com/',
+        description: 'Official courses on AI safety, alignment, and model usage.',
+        icon: <FlaskConical />,
+        tags: ['AI', 'Ethics', 'Official']
       },
       {
         title: 'HubSpot Academy',
